@@ -1,6 +1,6 @@
 # Projeto de site para stand virtual de carros
 
-Repositório do projeto de um site para a cadeira de Tecnologias Web, do 2º ano do curso de TCM do ISMAI. Desenvolvido pelo Grupo 3: [@GSO07](https://github.com/GSO07), [@joaodias99](https://github.com/joaodias99), [@FranciscoGaspar-del](https://github.com/FranciscoGaspar-del).
+Repositório do projeto de um site para a cadeira de Tecnologias Web, do 2º ano do curso de TCM do ISMAI. Desenvolvido pelo Grupo 3: Gonçalo Oliveira [@GSO07](https://github.com/GSO07), João Dias [@joaodias99](https://github.com/joaodias99), Francisco Gaspar [@FranciscoGaspar-del](https://github.com/FranciscoGaspar-del).
 
 ## Pequena descrição do tema
 
