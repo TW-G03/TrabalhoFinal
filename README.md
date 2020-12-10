@@ -8,7 +8,6 @@ Como o objetivo do trabalho final é criar um site, a ideia passa por construir 
 
 ## Organização do repositório
 
-_Please help reader navigate around describing how the repository is organized by providing links_
 * **Source code** is in the [src folder](https://github.com/TrabalhoFinal/report/src).
 * Report chapters are in [doc folder](https://github.com/TrabalhoFinal/report/doc).
 
