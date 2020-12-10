@@ -8,13 +8,12 @@ Como o objetivo do trabalho final é criar um site, a ideia passa por construir 
 
 ## Organização do repositório
 
-* **Source code** is in the [src folder](https://github.com/TrabalhoFinal/report/src).
-* Report chapters are in [doc folder](https://github.com/TrabalhoFinal/report/doc).
+* **Código fonte** está no [src folder](https://github.com/TrabalhoFinal/report/src).
+* Capítulos do relatório estão no [doc folder](https://github.com/TrabalhoFinal/report/doc).
 
 ## Galeria
 
-_Please provide a galery of the final result, with small images_
-A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull to organize the images
+Por enquanto, sem fotos.
 
 ## Tecnologias
 
@@ -23,7 +22,6 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 * Javascript
 
 ## Report
-_Please add at least on section (a file) per Chapter. But you can add more._
 
 ### Apresentação do projeto
 * C1: [Apresentação do projeto](doc/c1.md)
