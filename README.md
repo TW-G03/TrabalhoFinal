@@ -19,12 +19,9 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 
 ## Technologies
 
-_Indicate the technologies you have used in this assignment. Please provide links for the user to read more about those technologies._
 * XML
 * HTML5 + CSS3
 * Javascript
-* PHP
-* _Any other?_
 
 ### Frameworks and Libraries
 
@@ -48,6 +45,7 @@ _Please add at least on section (a file) per Chapter. But you can add more._
 ### Presentation
 * C4: [Presentation](doc/c4.md)
 
-## Team
-* Marco Amaro Oliveira [@MarcoOliveira](https://github.com/marcoamarooliveira)
-* Other team members
+## Equipa
+* Gonçalo Sampaio Oliveira [@GSO07](https://github.com/GSO07)
+* João Ricardo da Silva Dias [@joaodias99](https://github.com/joaodias99)
+* Francisco Gaspar Rego [@FranciscoGaspar-del](https://github.com/FranciscoGaspar-del)
