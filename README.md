@@ -1,16 +1,16 @@
-# My work assignment Title
+# Projeto de site para stand virtual de carros
 
-Repository to host the project developed for 'some class', a fisrt year subject at SOMESCHOOL. Desenvolvido pelo Grupo 3: [@MarcoOliveira](https://github.com/marcoamarooliveira), [add others].
+Repositório do projeto de um site para a cadeira de Tecnologias Web, do 2º ano do curso de TCM do ISMAI. Desenvolvido pelo Grupo 3: [@GSO07](https://github.com/GSO07), [@joaodias99](https://github.com/joaodias99), [@FranciscoGaspar-del](https://github.com/FranciscoGaspar-del).
 
 ## Pequena descrição do tema
 
-An example report using markdown on Github. This documentation is writen using [Markdown](https://www.markdownguide.org/). Here is a [link to the basic syntax](https://www.markdownguide.org/basic-syntax), but an [extended syntax](https://www.markdownguide.org/extended-syntax/) is also available. If you're starting with Markdown, you may want to try a [Markdown Tutorial](https://www.markdowntutorial.com/) and read the [getting started](https://www.markdownguide.org/getting-started/) section.
+Como o objetivo do trabalho final é criar um site, a ideia passa por construir um site de um stand de carros virtual. No site, os carros aparecem numa tabela/janela e, clicando num dos carros, o site irá redirecionar para outra página que fala em específico sobre o modelo de carro selecionado na página anterior.
 
 ## Organização do repositório
 
 _Please help reader navigate around describing how the repository is organized by providing links_
-* **Source code** is in the [src folder](https://github.com/exemploTrabalho/report/src).
-* Report chapters are in [doc folder](https://github.com/exemploTrabalho/report/doc).
+* **Source code** is in the [src folder](https://github.com/TrabalhoFinal/report/src).
+* Report chapters are in [doc folder](https://github.com/TrabalhoFinal/report/doc).
 
 ## Galeria
 
