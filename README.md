@@ -36,14 +36,14 @@ _Did you use any aditional libraries? Describe them here._
 ## Report
 _Please add at least on section (a file) per Chapter. But you can add more._
 
-### Project presentation
-* C1: [Project presentation](doc/c1.md)
-### User Interface 
-* C2: [User Interface Prototype and Sitemap](doc/c2.md)
-### Product
-* C3: [Product](doc/c3.md)
-### Presentation
-* C4: [Presentation](doc/c4.md)
+### Apresentação do projeto
+* C1: [Apresentação do projeto](doc/c1.md)
+### Interface com o utilizador 
+* C2: [Interface com o utilizador](doc/c2.md)
+### Produto
+* C3: [Produto](doc/c3.md)
+### Apresentação
+* C4: [Apresentação](doc/c4.md)
 
 ## Equipa
 * Gonçalo Sampaio Oliveira [@GSO07](https://github.com/GSO07)
