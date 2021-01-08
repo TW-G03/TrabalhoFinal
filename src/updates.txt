@@ -3,3 +3,22 @@ Dia 1.
 
 Dia 2.
 -Criação de páginas secundárias ("Quem Somos"(about.html), "Contactos"(contactos.html), "COVID-19"(covid.html), "BMW"(bmw.html)), e seus respetivos hyperlinks na página principal e progresso significativo da mesma (imagens e formatação de texto) e criação de uma tabela na página de Contactos.
+
+Dia 3. 
+-criação do diagrama.
+-add background.
+-pequenos ajustes na página.
+-criação da página do produto(carro,Mota).
+-adição de informação em todas as páginas.
+-adição de coluna lateral esquerda em todas as páginas estáticas.
+
+Dia 4. (prox seg.) A FAZER!!!!
+-modificar a pag do carro
+-fazer o formulário no quem somos ou nos contactos
+-HOME: add botões... para ir para motas e carros
+-colocar info na pag do covid (animar barra)
+-colocar info extra na coluna do lado esq
+-Header fixo (com java)
+-add carros e motas nas pag finais e menos nos destaques
+-fotografias dos carros do mm tamanho
+-(((((Fazer slideshow))))))) - se der.
