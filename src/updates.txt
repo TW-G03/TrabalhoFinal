@@ -12,13 +12,9 @@ Dia 3.
 -adição de informação em todas as páginas.
 -adição de coluna lateral esquerda em todas as páginas estáticas.
 
-Dia 4. (prox seg.) A FAZER!!!!
--modificar a pag do carro
--fazer o formulário no quem somos ou nos contactos
--HOME: add botões... para ir para motas e carros
--colocar info na pag do covid (animar barra)
--colocar info extra na coluna do lado esq
--Header fixo (com java)
--add carros e motas nas pag finais e menos nos destaques
--fotografias dos carros do mm tamanho
--(((((Fazer slideshow))))))) - se der.
+Dia 4.
+-finalização do diagrama.
+-adição de informação em todas as páginas.
+-criação de butões para a divisão de carros e motas.
+-adição de informação na página COVID-19 (covid.html).
+-recolha de imagens e detalhes dos produtos e aplicação dos mesmos nos respetivos locais.
