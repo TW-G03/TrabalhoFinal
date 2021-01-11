@@ -18,3 +18,11 @@ Dia 4.
 -criação de butões para a divisão de carros e motas.
 -adição de informação na página COVID-19 (covid.html).
 -recolha de imagens e detalhes dos produtos e aplicação dos mesmos nos respetivos locais.
+
+Dia 5.
+-Quem somos
+-xml
+-java(barra covid, header fixo)
+-contactos (formulário)
+- coluna esq - add inf extra
+ :)
