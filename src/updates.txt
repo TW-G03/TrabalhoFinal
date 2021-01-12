@@ -1,8 +1,8 @@
 Dia 1.
--Elaboração da interface do site. (Header, Colunas, Footer, Logo, Divisórias e Âncoras).
+-elaboração da interface do site. (Header, Colunas, Footer, Logo, Divisórias e Âncoras).
 
 Dia 2.
--Criação de páginas secundárias ("Quem Somos"(about.html), "Contactos"(contactos.html), "COVID-19"(covid.html), "BMW"(bmw.html)), e seus respetivos hyperlinks na página principal e progresso significativo da mesma (imagens e formatação de texto) e criação de uma tabela na página de Contactos.
+-criação de páginas secundárias ("Quem Somos"(about.html), "Contactos"(contactos.html), "COVID-19"(covid.html), "BMW"(bmw.html)), e seus respetivos hyperlinks na página principal. -progresso significativo da mesma (imagens e formatação de texto) e criação de uma tabela na página de Contactos.
 
 Dia 3. 
 -criação do diagrama.
@@ -20,9 +20,8 @@ Dia 4.
 -recolha de imagens e detalhes dos produtos e aplicação dos mesmos nos respetivos locais.
 
 Dia 5.
--Quem somos
--xml
--java(barra covid, header fixo)
--contactos (formulário)
-- coluna esq - add inf extra
- :)
+-finalização da página "Quem Somos" (about.html).
+-finalização da página "Contactos" (contactos.html) com a adição de um formulário.
+-adição de diferentes publicidades na coluna esquerda em todas as páginas.
+-adição de um botão para esconder um elemento (home/COVID-19), com recurso a java.
+-formatação de texto.
