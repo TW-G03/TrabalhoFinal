@@ -25,3 +25,10 @@ Dia 5.
 -adição de diferentes publicidades na coluna esquerda em todas as páginas.
 -adição de um botão para esconder um elemento (home/COVID-19), com recurso a java.
 -formatação de texto.
+
+Dia 6.
+-tentativa de corrigir media queries.
+-carregamento do ficheiro XML com recurso a java na página "Quem Somos" (about.html).
+-validação do xml com o devido schema.
+-organização do repositório do github.
+-finalização do site.
