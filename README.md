@@ -14,7 +14,7 @@ Como o objetivo do trabalho final é criar um site, a ideia passa por construir 
 ## Galeria
 
 ![galeria](https://i.imgur.com/eMjwtTo.png)
-![galeria](https://i.imgur.com/qkXu6Ic.png)
+![galeria](https://i.imgur.com/aiH9Q5h.png)
 ![galeria](https://i.imgur.com/SlwPSHh.png)
 ![galeria](https://i.imgur.com/QygSwCE.png)
 ![galeria](https://i.imgur.com/Ql6sgb6.png)
