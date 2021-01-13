@@ -13,7 +13,11 @@ Como o objetivo do trabalho final é criar um site, a ideia passa por construir 
 
 ## Galeria
 
-Por enquanto, sem fotos.
+![galeria](https://i.imgur.com/eMjwtTo.png)
+![galeria](https://i.imgur.com/qkXu6Ic.png)
+![galeria](https://i.imgur.com/SlwPSHh.png)
+![galeria](https://i.imgur.com/QygSwCE.png)
+![galeria](https://i.imgur.com/Ql6sgb6.png)
 
 ## Tecnologias
 
